@@ -1,4 +1,4 @@
 # DSA-javaprograms
 This is my 1st repository
 <br>
-Author Amansinha  
+Author AmanSinha  
